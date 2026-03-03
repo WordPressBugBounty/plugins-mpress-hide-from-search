@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'wpscholar/mpress-hide-from-search',
-        'pretty_version' => '1.1.7',
-        'version' => '1.1.7.0',
-        'reference' => 'b430164a4247fc85d43126cf897d270551846190',
+        'pretty_version' => '1.1.8',
+        'version' => '1.1.8.0',
+        'reference' => '40a40adba28dc4678be33c320020e6f1b21812e4',
         'type' => 'wordpress-plugin',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -47,9 +47,9 @@
             'dev_requirement' => false,
         ),
         'wpscholar/mpress-hide-from-search' => array(
-            'pretty_version' => '1.1.7',
-            'version' => '1.1.7.0',
-            'reference' => 'b430164a4247fc85d43126cf897d270551846190',
+            'pretty_version' => '1.1.8',
+            'version' => '1.1.8.0',
+            'reference' => '40a40adba28dc4678be33c320020e6f1b21812e4',
             'type' => 'wordpress-plugin',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

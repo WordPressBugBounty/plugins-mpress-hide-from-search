@@ -7,35 +7,35 @@ namespace Composer\Autoload;
 class ComposerStaticInit45601877d29826fa8045b75f1fe9d36a
 {
     public static $prefixLengthsPsr4 = array (
-        'W' => 
+        'W' =>
         array (
             'WP_Forge\\UpgradeHandler\\' => 24,
             'WP_Forge\\Container\\' => 19,
         ),
-        'P' => 
+        'P' =>
         array (
             'Psr\\Container\\' => 14,
         ),
-        'H' => 
+        'H' =>
         array (
             'HideFromSearch\\' => 15,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'WP_Forge\\UpgradeHandler\\' => 
+        'WP_Forge\\UpgradeHandler\\' =>
         array (
             0 => __DIR__ . '/..' . '/wp-forge/wp-upgrade-handler/includes',
         ),
-        'WP_Forge\\Container\\' => 
+        'WP_Forge\\Container\\' =>
         array (
             0 => __DIR__ . '/..' . '/wp-forge/container/includes',
         ),
-        'Psr\\Container\\' => 
+        'Psr\\Container\\' =>
         array (
             0 => __DIR__ . '/..' . '/psr/container/src',
         ),
-        'HideFromSearch\\' => 
+        'HideFromSearch\\' =>
         array (
             0 => __DIR__ . '/../..' . '/includes',
         ),
